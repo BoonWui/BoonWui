@@ -2,7 +2,7 @@
 
 I build Python tools for commodity markets: pipelines that pull market data and news from LSEG/Refinitiv, bots that deliver palm oil updates, trading analytics for FCPO, and finance calculators. Based in Malaysia.
 
-🌐 **Portfolio:** [boonwui.github.io](https://boonwui.github.io)
+🌐 **Portfolio:** [boonwui.github.io](https://boonwui.github.io) · ✍️ **Notes:** [boonwui.github.io/blog](https://boonwui.github.io/blog/)
 
 ## ⭐ Featured
 
@@ -13,7 +13,7 @@ I build Python tools for commodity markets: pipelines that pull market data and 
 ## 🛠 Projects
 
 **Market data pipelines**
-- [Palm oil market news pipeline](https://github.com/BoonWui/Data-pipeline_palm-oil-market-news-analytics-pipeline_London-stock-exchange--Refinitiv-Workspace): LSEG/Refinitiv news extraction, cleaning and storage in Parquet
+- [Palm oil market news pipeline](https://github.com/BoonWui/palm-oil-news-pipeline): LSEG/Refinitiv news extraction, cleaning and storage in Parquet
 - [LSEG ETL](https://github.com/BoonWui/LSEG-ETL): minute-level market data from the LSEG API
 - [Minute-to-hourly ETL](https://github.com/BoonWui/minute-to-hourly-etl): turns minute bars into hourly data
 - [Web scrape → ETL → report](https://github.com/BoonWui/WebScrap-to-ETL-to-Report): scrape, clean and report
@@ -28,11 +28,17 @@ I build Python tools for commodity markets: pipelines that pull market data and 
 - [Monte Carlo price simulation](https://github.com/BoonWui/Monte-Carlo-Simulation): stock and crypto price paths from Yahoo Finance data
 - [Machine learning](https://github.com/BoonWui/Machine-Learning)
 
+**Live web tools**
+- [Palm Oil Price Tools](https://boonwui.github.io/palm-oil-tools/): RM/USD price converter and Indonesia export levy and duty estimator
+- [Calendar Spread Analyser](https://boonwui.github.io/spread-analyser/): OU mean-reversion fit, z-score signals and backtest in the browser
+- [Monte Carlo Simulator](https://boonwui.github.io/monte-carlo/): GBM and Heston price paths with fan chart and value at risk
+- [Market Simulator (Streamlit)](https://github.com/BoonWui/market-simulator-streamlit): Monte Carlo calibrated to live Yahoo Finance data
+
 **Tools & algorithms**
 - [FCPO Trade Calculator](https://boonwui.github.io/fcpo-calculator/): P&L, fees, margin, break-even, risk/reward and position sizing for palm oil futures (live)
 - [Option Pricing Calculator](https://boonwui.github.io/option-calculator/): Black-Scholes and Black-76 pricing with Greeks, implied volatility and payoff chart (live)
 - [Retirement & option calculators](https://github.com/BoonWui/Application): [retirement v1.0](https://github.com/BoonWui/Application/releases/tag/v1.0) · [option v1.1](https://github.com/BoonWui/Application/releases/tag/v1.1)
-- [LPMP coin minimisation library](https://github.com/BoonWui/LPMP-libraru): fast, memory-efficient coin minimisation using recursive modular pruning
+- [LPMP coin minimisation library](https://github.com/BoonWui/LPMP-library): fast, memory-efficient coin minimisation using recursive modular pruning
 
 ## 🧰 Toolkit
 
