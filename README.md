@@ -6,6 +6,15 @@ I build Python tools for commodity markets: pipelines that pull market data and 
 
 ## ⭐ Featured
 
+### 🌴 [Palm Oil Market Monitor](https://boonwui.github.io/palm-oil-monitor/)
+A self-updating monthly palm oil report built only from public data. A Python ETL pipeline pulls World Bank prices, NOAA's El Niño index and MPOB balances. GitHub Actions rebuilds the report twice a month, with tests in CI.
+- Written market read-out and a **six-factor bullish/bearish scorecard**
+- **Stock-to-usage valuation model** (fair value vs market premium)
+- **El Niño output projection**: Malaysian production up to 9 months ahead
+- Price, spread and correlation tables, plus the full Malaysian supply and demand balance
+
+[Open the report](https://boonwui.github.io/palm-oil-monitor/) · [How it's built](https://github.com/BoonWui/BoonWui.github.io/tree/main/palm-oil-monitor)
+
 **[Palm Oil Fundamentals](https://boonwui.github.io/palm-oil-fundamentals/)**: a palm oil outlook dashboard covering Malaysian supply and stocks, export trends, El Niño, India and China demand, Indonesian biodiesel and an FCPO price model, with a [forecast to June 2027](https://boonwui.github.io/palm-oil-fundamentals/#forecast).
 
 **[Compounding Calculator](https://boonwui.github.io/compounding-calculator/)**: see what savings grow into with compound interest, then how long the money lasts once withdrawals start. Includes a financial-independence goal, inflation and 10 currencies. [Live demo](https://boonwui.github.io/compounding-calculator/) · [Code](https://github.com/BoonWui/compounding-calculator)
