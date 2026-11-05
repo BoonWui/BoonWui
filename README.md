@@ -39,10 +39,10 @@ A self-updating monthly palm oil report built only from public data. A Python ET
 - [Machine learning](https://github.com/BoonWui/Machine-Learning)
 
 **Live web tools**
-- [Stock Screener](https://boonwui.github.io/screener/): about 110 Bursa Malaysia and US stocks with ready-made screens (momentum, near highs, pullbacks, oversold), custom filters and CSV export, refreshed hourly in market hours
+- [Stock Screener](https://boonwui.github.io/screener/): about 110 Bursa Malaysia and US stocks with ready-made screens (momentum, near highs, pullbacks, oversold), custom filters and CSV export, refreshed during market hours
 - [Strategy Backtester](https://boonwui.github.io/backtester/): moving-average, RSI, momentum and breakout rules against buy-and-hold, after costs, with drawdowns and a trade list
 - [Stock pages](https://boonwui.github.io/stock/): a page per stock with trend, RSI, drawdown, monthly returns and sector peers
-- [S&P 500 Market Monitor](https://boonwui.github.io/sp500-monitor/): 11 sectors and 62 large US stocks with breadth, concentration, VIX, yields, a screener and momentum, refreshed hourly while US markets are open
+- [S&P 500 Market Monitor](https://boonwui.github.io/sp500-monitor/): 11 sectors and 62 large US stocks with breadth, concentration, VIX, yields, a screener and momentum, refreshed during US trading hours
 - [Bursa Malaysia Market Monitor](https://boonwui.github.io/bursa-monitor/): FBM KLCI and nearly 50 stocks across 10 sectors with sector rotation, breadth, a stock screener, momentum and risk analysis, updated every trading day
 - [Palm Oil Market Monitor](https://boonwui.github.io/palm-oil-monitor/): self-updating monthly report with a factor scorecard, valuation model and El Niño output outlook from public data (GitHub Actions) [![Tests](https://github.com/BoonWui/BoonWui.github.io/actions/workflows/tests.yml/badge.svg)](https://github.com/BoonWui/BoonWui.github.io/actions/workflows/tests.yml)
 - [Palm Oil Price Tools](https://boonwui.github.io/palm-oil-tools/): RM/USD price converter and Indonesia export levy and duty estimator
