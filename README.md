@@ -43,7 +43,6 @@ A self-updating monthly palm oil report built only from public data. A Python ET
 - [Veg Oil & Energy Monitor](https://boonwui.github.io/energy-monitor/): Brent, diesel and USD/MYR from EIA and Bank Negara, with palm's POGO spread and ringgit price (daily)
 - [MPOB Countdown & Nowcast](https://boonwui.github.io/mpob-nowcast/): live countdown to the next MPOB report and a back-tested estimate of production, exports and stocks
 - [Pair-Trading Explorer](https://boonwui.github.io/pairs/): stock pairs that move together, spread z-scores, half-lives and a back-test
-- [Data Health](https://boonwui.github.io/status/): live status of every data feed and automated job
 - [Stock Screener](https://boonwui.github.io/screener/): about 110 Bursa Malaysia and US stocks with ready-made screens (momentum, near highs, pullbacks, oversold), custom filters and CSV export, refreshed during market hours
 - [Strategy Backtester](https://boonwui.github.io/backtester/): moving-average, RSI, momentum and breakout rules against buy-and-hold, after costs, with drawdowns and a trade list
 - [Stock pages](https://boonwui.github.io/stock/): a page per stock with trend, RSI, drawdown, monthly returns and sector peers
