@@ -52,7 +52,7 @@ A self-updating monthly palm oil report built only from public data. A Python ET
 - [Retirement & option calculators](https://github.com/BoonWui/Application): [retirement v1.0](https://github.com/BoonWui/Application/releases/tag/v1.0) · [option v1.1](https://github.com/BoonWui/Application/releases/tag/v1.1)
 - [LPMP coin minimisation library](https://github.com/BoonWui/LPMP-library): fast, memory-efficient coin minimisation using recursive modular pruning
 
-> **Not financial advice.** All projects here are for education and research only.
+> **Disclaimer:** Data in these projects may be delayed, incomplete or inaccurate. Everything here is for education and research only. Use at your own risk. **Not financial advice.**
 
 ## 🧰 Toolkit
 
