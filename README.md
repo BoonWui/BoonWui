@@ -38,6 +38,7 @@ A self-updating monthly palm oil report built only from public data. A Python ET
 - [Machine learning](https://github.com/BoonWui/Machine-Learning)
 
 **Live web tools**
+- [Bursa Plantation Monitor](https://boonwui.github.io/bursa-monitor/): FBM KLCI and Bursa plantation stocks with returns, beta, volatility and palm oil correlation, updated every trading day
 - [Palm Oil Market Monitor](https://boonwui.github.io/palm-oil-monitor/): self-updating monthly report with a factor scorecard, valuation model and El Niño output outlook from public data (GitHub Actions) [![Tests](https://github.com/BoonWui/BoonWui.github.io/actions/workflows/tests.yml/badge.svg)](https://github.com/BoonWui/BoonWui.github.io/actions/workflows/tests.yml)
 - [Palm Oil Price Tools](https://boonwui.github.io/palm-oil-tools/): RM/USD price converter and Indonesia export levy and duty estimator
 - [Option Strategy Builder](https://boonwui.github.io/option-strategy/): multi-leg futures and options strategies with payoff, break-evens and combined Greeks
@@ -50,6 +51,8 @@ A self-updating monthly palm oil report built only from public data. A Python ET
 - [Option Pricing Calculator](https://boonwui.github.io/option-calculator/): Black-Scholes and Black-76 pricing with Greeks, implied volatility and payoff chart (live)
 - [Retirement & option calculators](https://github.com/BoonWui/Application): [retirement v1.0](https://github.com/BoonWui/Application/releases/tag/v1.0) · [option v1.1](https://github.com/BoonWui/Application/releases/tag/v1.1)
 - [LPMP coin minimisation library](https://github.com/BoonWui/LPMP-library): fast, memory-efficient coin minimisation using recursive modular pruning
+
+> **Not financial advice.** All projects here are for education and research only.
 
 ## 🧰 Toolkit
 
