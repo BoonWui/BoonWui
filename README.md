@@ -6,6 +6,8 @@ I build Python tools for commodity markets: pipelines that pull market data and 
 
 ## ⭐ Featured
 
+**[Palm Oil Fundamentals](https://boonwui.github.io/palm-oil-fundamentals/)**: a palm oil outlook dashboard covering Malaysian supply and stocks, export trends, El Niño, India and China demand, Indonesian biodiesel and an FCPO price model, with a [forecast to June 2027](https://boonwui.github.io/palm-oil-fundamentals/#forecast).
+
 **[Compounding Calculator](https://boonwui.github.io/compounding-calculator/)**: see what savings grow into with compound interest, then how long the money lasts once withdrawals start. Includes a financial-independence goal, inflation and 10 currencies. [Live demo](https://boonwui.github.io/compounding-calculator/) · [Code](https://github.com/BoonWui/compounding-calculator)
 
 ## 🛠 Projects
