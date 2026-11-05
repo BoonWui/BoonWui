@@ -1,6 +1,6 @@
 # Hi, I'm BoonWui 👋
 
-I build Python tools for commodity markets: pipelines that pull market data and news from LSEG/Refinitiv, bots that deliver palm oil updates, trading analytics for FCPO, and finance calculators. Based in Malaysia.
+I build Python tools for commodity markets: pipelines that pull market data and news from LSEG/Refinitiv, bots that deliver palm oil updates, trading analytics for FCPO, and finance calculators. Based in Malaysia. [More about me](https://boonwui.github.io/about/).
 
 🌐 **Portfolio:** [boonwui.github.io](https://boonwui.github.io) · ✍️ **Notes:** [boonwui.github.io/blog](https://boonwui.github.io/blog/)
 
@@ -12,8 +12,9 @@ A self-updating monthly palm oil report built only from public data. A Python ET
 - **Stock-to-usage valuation model** (fair value vs market premium)
 - **El Niño output projection**: Malaysian production up to 9 months ahead
 - Price, spread and correlation tables, plus the full Malaysian supply and demand balance
+- **Archive of every monthly edition**, scoring each call against what palm did next
 
-[Open the report](https://boonwui.github.io/palm-oil-monitor/) · [How it's built](https://github.com/BoonWui/BoonWui.github.io/tree/main/palm-oil-monitor)
+[Open the report](https://boonwui.github.io/palm-oil-monitor/) · [Track record of past calls](https://boonwui.github.io/palm-oil-monitor/archive/) · [How it's built](https://github.com/BoonWui/BoonWui.github.io/tree/main/palm-oil-monitor)
 
 **[Palm Oil Fundamentals](https://boonwui.github.io/palm-oil-fundamentals/)**: a palm oil outlook dashboard covering Malaysian supply and stocks, export trends, El Niño, India and China demand, Indonesian biodiesel and an FCPO price model, with a [forecast to June 2027](https://boonwui.github.io/palm-oil-fundamentals/#forecast).
 
@@ -38,6 +39,9 @@ A self-updating monthly palm oil report built only from public data. A Python ET
 - [Machine learning](https://github.com/BoonWui/Machine-Learning)
 
 **Live web tools**
+- [Stock Screener](https://boonwui.github.io/screener/): about 110 Bursa Malaysia and US stocks with ready-made screens (momentum, near highs, pullbacks, oversold), custom filters and CSV export, refreshed hourly in market hours
+- [Strategy Backtester](https://boonwui.github.io/backtester/): moving-average, RSI, momentum and breakout rules against buy-and-hold, after costs, with drawdowns and a trade list
+- [Stock pages](https://boonwui.github.io/stock/): a page per stock with trend, RSI, drawdown, monthly returns and sector peers
 - [S&P 500 Market Monitor](https://boonwui.github.io/sp500-monitor/): 11 sectors and 62 large US stocks with breadth, concentration, VIX, yields, a screener and momentum, refreshed hourly while US markets are open
 - [Bursa Malaysia Market Monitor](https://boonwui.github.io/bursa-monitor/): FBM KLCI and nearly 50 stocks across 10 sectors with sector rotation, breadth, a stock screener, momentum and risk analysis, updated every trading day
 - [Palm Oil Market Monitor](https://boonwui.github.io/palm-oil-monitor/): self-updating monthly report with a factor scorecard, valuation model and El Niño output outlook from public data (GitHub Actions) [![Tests](https://github.com/BoonWui/BoonWui.github.io/actions/workflows/tests.yml/badge.svg)](https://github.com/BoonWui/BoonWui.github.io/actions/workflows/tests.yml)
@@ -45,7 +49,7 @@ A self-updating monthly palm oil report built only from public data. A Python ET
 - [Option Strategy Builder](https://boonwui.github.io/option-strategy/): multi-leg futures and options strategies with payoff, break-evens and combined Greeks
 - [Calendar Spread Analyser](https://boonwui.github.io/spread-analyser/): OU mean-reversion fit, z-score signals and backtest in the browser
 - [Monte Carlo Simulator](https://boonwui.github.io/monte-carlo/): GBM and Heston price paths with fan chart and value at risk
-- [Market Simulator (Streamlit)](https://github.com/BoonWui/market-simulator-streamlit): Monte Carlo calibrated to live Yahoo Finance data
+- [Market Simulator (Streamlit)](https://boonwui.github.io/market-simulator/): a Python Streamlit app running entirely in the browser with stlite/Pyodide, Monte Carlo calibrated to real prices · [Code](https://github.com/BoonWui/market-simulator-streamlit)
 
 **Tools & algorithms**
 - [FCPO Trade Calculator](https://boonwui.github.io/fcpo-calculator/): P&L, fees, margin, break-even, risk/reward and position sizing for palm oil futures (live)
