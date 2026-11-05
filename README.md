@@ -29,6 +29,7 @@ I build Python tools for commodity markets: pipelines that pull market data and 
 - [Machine learning](https://github.com/BoonWui/Machine-Learning)
 
 **Live web tools**
+- [Palm Oil Market Monitor](https://boonwui.github.io/palm-oil-monitor/): self-updating dashboard of vegetable oil prices, El Niño and Malaysian stocks from public data (GitHub Actions)
 - [Palm Oil Price Tools](https://boonwui.github.io/palm-oil-tools/): RM/USD price converter and Indonesia export levy and duty estimator
 - [Calendar Spread Analyser](https://boonwui.github.io/spread-analyser/): OU mean-reversion fit, z-score signals and backtest in the browser
 - [Monte Carlo Simulator](https://boonwui.github.io/monte-carlo/): GBM and Heston price paths with fan chart and value at risk
