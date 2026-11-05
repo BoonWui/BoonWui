@@ -29,6 +29,8 @@ I build Python tools for commodity markets: pipelines that pull market data and 
 - [Machine learning](https://github.com/BoonWui/Machine-Learning)
 
 **Tools & algorithms**
+- [FCPO Trade Calculator](https://boonwui.github.io/fcpo-calculator/): P&L, fees, margin, break-even, risk/reward and position sizing for palm oil futures (live)
+- [Option Pricing Calculator](https://boonwui.github.io/option-calculator/): Black-Scholes and Black-76 pricing with Greeks, implied volatility and payoff chart (live)
 - [Retirement & option calculators](https://github.com/BoonWui/Application): [retirement v1.0](https://github.com/BoonWui/Application/releases/tag/v1.0) · [option v1.1](https://github.com/BoonWui/Application/releases/tag/v1.1)
 - [LPMP coin minimisation library](https://github.com/BoonWui/LPMP-libraru): fast, memory-efficient coin minimisation using recursive modular pruning
 
